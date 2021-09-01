@@ -1,2 +1,2 @@
-# Reverberation-Algorithms
+# Reverberation-Algorithms & Filters
 Reverberation algorithms using MATLAB
